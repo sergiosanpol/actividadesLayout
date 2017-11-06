@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">ActividadesLayout</string>
+    <string name="tv_relative_titulo">Type here:</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="btn_aceptar">Ok</string>
+    <string name="btn_relative">RelativeLayout</string>
+    <string name="btn_table">TableLayout</string>
+
+    <string name="button_n1">1</string>
+    <string name="button_n2">2</string>
+    <string name="button_n3">3</string>
+    <string name="button_n4">4</string>
+    <string name="button_n5">5</string>
+    <string name="button_n6">6</string>
+    <string name="button_n7">7</string>
+    <string name="button_n8">8</string>
+    <string name="button_n9">9</string>
 </resources>
